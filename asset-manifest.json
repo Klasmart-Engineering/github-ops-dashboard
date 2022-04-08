@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github-ops-dashboard/static/css/main.073c9b0a.css",
-    "main.js": "/github-ops-dashboard/static/js/main.d7f055d5.js",
-    "static/js/787.c35ab0fe.chunk.js": "/github-ops-dashboard/static/js/787.c35ab0fe.chunk.js",
-    "index.html": "/github-ops-dashboard/index.html",
-    "main.073c9b0a.css.map": "/github-ops-dashboard/static/css/main.073c9b0a.css.map",
-    "main.d7f055d5.js.map": "/github-ops-dashboard/static/js/main.d7f055d5.js.map",
-    "787.c35ab0fe.chunk.js.map": "/github-ops-dashboard/static/js/787.c35ab0fe.chunk.js.map"
+    "main.css": "/ops-exp2/static/css/main.073c9b0a.css",
+    "main.js": "/ops-exp2/static/js/main.f351afc2.js",
+    "static/js/787.c35ab0fe.chunk.js": "/ops-exp2/static/js/787.c35ab0fe.chunk.js",
+    "index.html": "/ops-exp2/index.html",
+    "main.073c9b0a.css.map": "/ops-exp2/static/css/main.073c9b0a.css.map",
+    "main.f351afc2.js.map": "/ops-exp2/static/js/main.f351afc2.js.map",
+    "787.c35ab0fe.chunk.js.map": "/ops-exp2/static/js/787.c35ab0fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d7f055d5.js"
+    "static/js/main.f351afc2.js"
   ]
 }
